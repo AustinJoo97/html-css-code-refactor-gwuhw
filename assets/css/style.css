@@ -32,14 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+#headerList {
     list-style-type: none;
 }
+/* added id to unoroder list html tag to all for greater legibility */
 
-.header div ul li {
+.headListItem {
     display: inline-block;
     margin-left: 25px;
 }
+/* added class to list items to allow for greater legibility */
 
 a {
     color: #ffffff;
