@@ -8,5 +8,8 @@ Assignment given with a provided HTML and a corresponding CSS file in which stud
 
 Finally, the assignment was asked to be deployed through the use of github pages.
 
+The link to the deployed webpage is as follows:
+https://austinjoo97.github.io/html-css-code-refactor-gwuhw1/
+
 Below is a render of the webpage after being deployed through a github live link:
-![alt text](https://github.com/AustinJoo97/html-css-code-refactor-gwuhw1/blob/main/aj_deployed_horiseon.png?raw=true)
+![GitHub Logo](https://github.com/AustinJoo97/html-css-code-refactor-gwuhw1/blob/main/aj_deployed_horiseon.png?raw=true)
