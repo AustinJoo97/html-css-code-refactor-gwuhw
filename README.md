@@ -9,4 +9,4 @@ Assignment given with a provided HTML and a corresponding CSS file in which stud
 Finally, the assignment was asked to be deployed through the use of github pages.
 
 Below is a render of the webpage after being deployed through a github live link:
-![alt text](https://github.com/AustinJoo97/html-css-code-refactor-gwuhw1/assets/main/aj_deployed_horiseon.png?raw=true)
+![alt text](https://github.com/AustinJoo97/html-css-code-refactor-gwuhw1/blob/main/aj_deployed_horiseon.png?raw=true)
