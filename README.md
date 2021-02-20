@@ -12,4 +12,4 @@ The link to the deployed webpage is as follows:
 https://austinjoo97.github.io/html-css-code-refactor-gwuhw1/
 
 Below is a render of the webpage after being deployed through a github live link:
-![GitHub Logo](https://github.com/AustinJoo97/html-css-code-refactor-gwuhw1/blob/main/aj_deployed_horiseon.png?raw=true)
+![GitHub Logo](./assets/aj_deployed_horiseon.png)
