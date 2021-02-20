@@ -1,5 +1,4 @@
-# html-css-code-refactor-gwuhw
-GWU Homework Assignment 1
+# GWU Homework Assignment 1
 
 Assignment given with a provided HTML and a corresponding CSS file in which students were asked to refactor the code and make adjustments for the sake of:
 - Applying correct functionality to all links seen on screen
@@ -8,8 +7,10 @@ Assignment given with a provided HTML and a corresponding CSS file in which stud
 
 Finally, the assignment was asked to be deployed through the use of github pages.
 
-The link to the deployed webpage is as follows:
+Note: The initial github repo with this was set incorrectly and thus a new repository with the same assingment had to be created.
+
+# Deployed Link
 https://austinjoo97.github.io/html-css-code-refactor-gwuhw1/
 
-Below is a render of the webpage after being deployed through a github live link:
+# Webpage render
 ![GitHub Logo](./assets/aj_deployed_horiseon.png)
